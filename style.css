@@ -1,0 +1,36 @@
+body{
+font-family: 'roboto',sans-serif ;
+background-color: #c9d1d1;
+}
+.form-center{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+ 
+}
+form{
+    background-color:rgb(231, 221, 240);
+    padding: 36px;
+    border-radius: 20px;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    font-size: 1.5em;
+
+    
+
+}
+.nameForm{
+    text-align: center;
+    font-size: 2em;
+    color:red;
+
+
+}
+input{
+    background-color: #ddd3d3;
+}
+textarea{
+    background-color: #c9d1d1;
+    border-radius: 10px;
+}
